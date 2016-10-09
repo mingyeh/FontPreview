@@ -13,6 +13,7 @@ User can click on any font family to view all the font names in the family:
 User can click on any font name to view the effects in different font sizes:
 <img src="https://github.com/mingyeh/FontPreview/blob/master/FontSizesView.png" />
 <br>
-User can also click on the detail icon in the font names view to preview the font in all sizes and add the font to Favorite list:
+User can also click on the detail icon in the font names view to preview the font in all sizes, <br/
+>or to add the font to Favorite list:
 <img src="https://github.com/mingyeh/FontPreview/blob/master/FontInfoView.png" />
 </p>
